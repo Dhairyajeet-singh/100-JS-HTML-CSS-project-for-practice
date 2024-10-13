@@ -4,4 +4,4 @@ I founded a playlist available over YouTube, by Huxn webdev, https://www.youtube
 
 playlist link: https://www.youtube.com/playlist?list=PLSDeUiTMfxW7lm7P7GZ8qtNFffHAR5d_w
 
-1/100 completed
+3/100 completed
